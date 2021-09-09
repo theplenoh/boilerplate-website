@@ -4,7 +4,7 @@
     src: local('Noto Sans CJK KR Bold'),
     url('/webfonts/NotoSansKR/NotoSansKR-Bold.woff2') format('woff2'),
     url('/webfonts/NotoSansKR/NotoSansKR-Bold.woff') format('woff'),
-    url('/webfonts/NotoSansKR/NotoSansKR-Bold.otf') format('truetype');
+    url('/webfonts/NotoSansKR/NotoSansKR-Bold.otf') format('opentype');
 }
 
 @font-face {
@@ -13,7 +13,7 @@
     src: local('Noto Sans CJK KR Medium'),
     url('/webfonts/NotoSansKR/NotoSansKR-Medium.woff2') format('woff2'),
     url('/webfonts/NotoSansKR/NotoSansKR-Medium.woff') format('woff'),
-    url('/webfonts/NotoSansKR/NotoSansKR-Medium.otf') format('truetype');
+    url('/webfonts/NotoSansKR/NotoSansKR-Medium.otf') format('opentype');
 }
 
 @font-face {
@@ -22,7 +22,7 @@
     src: local('Noto Sans CJK KR Regular'),
     url('/webfonts/NotoSansKR/NotoSansKR-Regular.woff2') format('woff2'),
     url('/webfonts/NotoSansKR/NotoSansKR-Regular.woff') format('woff'),
-    url('/webfonts/NotoSansKR/NotoSansKR-Regular.otf') format('truetype');
+    url('/webfonts/NotoSansKR/NotoSansKR-Regular.otf') format('opentype');
 }
 
 @font-face {
@@ -31,7 +31,7 @@
     src: local('Noto Sans CJK KR Light'),
     url('/webfonts/NotoSansKR/NotoSansKR-Light.woff2') format('woff2'),
     url('/webfonts/NotoSansKR/NotoSansKR-Light.woff') format('woff'),
-    url('/webfonts/NotoSansKR/NotoSansKR-Light.otf') format('truetype');
+    url('/webfonts/NotoSansKR/NotoSansKR-Light.otf') format('opentype');
 }
 
 @font-face {
@@ -40,5 +40,5 @@
     src: local('Noto Sans CJK KR Thin'),
     url('/webfonts/NotoSansKR/NotoSansKR-Thin.woff2') format('woff2'),
     url('/webfonts/NotoSansKR/NotoSansKR-Thin.woff') format('woff'),
-    url('/webfonts/NotoSansKR/NotoSansKR-Thin.otf') format('truetype');
+    url('/webfonts/NotoSansKR/NotoSansKR-Thin.otf') format('opentype');
 }
