@@ -1,6 +1,11 @@
 @charset "utf-8";
 
-@import url("reset.css");
-/*
-@import url("webfont-blabla.css");
-*/
+/* CSS reset */
+@import url("/styles/reset.css");
+/* web fonts */
+@import url("/styles/webfont-NanumSquare.css");
+@import url("/styles/webfont-SpoqaHanSansNeo.css");
+/* only applied to IE11 */
+@import url("/styles/ie11-patch.css");
+
+
