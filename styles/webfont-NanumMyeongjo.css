@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'NanumMyeongjo';
-    font-weight: 700;
+    font-weight: 800;
     src: local('NanumMyeongjo ExtraBold'),
          url('/webfonts/NanumMyeongjo/NanumMyeongjoExtraBold.subset.woff2') format('woff2'),
          url('/webfonts/NanumMyeongjo/NanumMyeongjoExtraBold.subset.woff') format('woff'),
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'NanumMyeongjo';
-    font-weight: 600;
+    font-weight: 700;
     src: local('NanumMyeongjo Bold'),
          url('/webfonts/NanumMyeongjo/NanumMyeongjoBold.subset.woff2') format('woff2'),
          url('/webfonts/NanumMyeongjo/NanumMyeongjoBold.subset.woff') format('woff'),
