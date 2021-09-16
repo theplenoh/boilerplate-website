@@ -2,21 +2,23 @@
 
 /** CSS reset **/
 @import url("/styles/reset.css");
-/** web fonts **/
+/** Web fonts **/
 @import url("/styles/webfont-NanumSquare.css");
 @import url("/styles/webfont-NanumMyeongjo.css");
 @import url("/styles/webfont-NanumBarunGothic.css");
-/** only applied to IE11 **/
+/** Only applied to IE11 **/
 @import url("/styles/ie11-patch.css");
 
-/** common **/
+/** Common **/
 
-/** typography **/
+/** Typography **/
 
-/** layout **/
+/** Layout **/
 /* BEGIN::body */
+    body {
+    }
 /* END::body */
 
-/** modules **/
+/** Modules **/
 
-/** specifics **/
+/** Specifics **/
