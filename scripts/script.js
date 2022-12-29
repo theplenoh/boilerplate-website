@@ -23,17 +23,19 @@ jQuery(document).ready(function() {
     else {
         bpLarge();
     }
+
+    jQuery(window).resize(function() {
+        //jQuery("#gnb *").off();
+        if(jQuery(window).width() <= 640) {
+            bpSmall();
+        }
+        else if(641 <= jQuery(window).width() && jQuery(window).width() <= 1024) {
+            bpMedium();
+        }
+        else {
+            bpLarge();
+        }
+    });
 });
 
-jQuery(window).resize(function() {
-    //jQuery("#gnb *").off();
-    if(jQuery(window).width() <= 640) {
-        bpSmall();
-    }
-    else if(641 <= jQuery(window).width() && jQuery(window).width() <= 1024) {
-        bpMedium();
-    }
-    else {
-        bpLarge();
-    }
-});
+
