@@ -1,24 +1,24 @@
 @charset "utf-8";
 
-/** CSS reset **/
+/*** CSS reset ***/
 @import url("/styles/reset.css");
-/** Web fonts **/
+/*** Webfonts ***/
 @import url("/styles/webfont-NanumSquare.css");
 @import url("/styles/webfont-NanumMyeongjo.css");
 @import url("/styles/webfont-NanumBarunGothic.css");
-/** Only applied to IE11 **/
+/*** Only applied to IE11 ***/
 @import url("/styles/ie11-patch.css");
 
-/** Common **/
+/*** Common ***/
 
-/** Typography **/
+/*** Typography ***/
 
-/** Layout **/
+/*** Layout ***/
 /* BEGIN::body */
     body {
     }
 /* END::body */
 
-/** Modules **/
+/*** Modules ***/
 
-/** Specifics **/
+/*** Specifics ***/
