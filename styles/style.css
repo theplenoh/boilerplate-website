@@ -14,11 +14,19 @@
 /*** Typography ***/
 
 /*** Layout ***/
+
+/*** Modules ***/
+
+/*** Details ***/
 /* BEGIN::body */
     body {
     }
 /* END::body */
+/* BEGIN::header */
+    body {
+    }
+/* END::header */
 
-/*** Modules ***/
+/*** Animations ***/
 
-/*** Specifics ***/
+/*** Scaffolding ***/
